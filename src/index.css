@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.test-box {
+  @apply bg-blue-500 text-white text-xl p-4 rounded;
+}
